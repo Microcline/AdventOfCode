@@ -8,8 +8,8 @@ https://adventofcode.com/2025/day/1
 
 Concepts used:
 
-File I/O
+- File I/O
 
-Modular arithmetic
+- Modular arithmetic
 
-Regular expressions
+- Regular expressions
